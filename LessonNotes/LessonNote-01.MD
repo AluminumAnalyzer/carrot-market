@@ -4,9 +4,9 @@
 <li>프로젝트 생성</li>
 
 ```
- yarn create next-app --typescript
+    yarn create next-app --typescript
  ```
- 
+
 프로젝트명을 일단 carrot-market으로 설정
 여기에서는 **typescript**를 사용할 예정입니다.
 
