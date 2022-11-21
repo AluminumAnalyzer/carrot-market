@@ -1,22 +1,37 @@
-# 프로젝트 설정 2
+# 프로젝트 설정 2 - tailwind 설정
 
-## tailwind 설정
-## tainwind 설치
-` yarn add tailwindcss postcss autoprefixer
-` yarn tailwindcss init -p
+<ol>
+<li>tainwind 설치</li>
 
-## 이작업후 
-## 다음 2개의 파일이 생성됩니다.
-## Created Tailwind CSS config file: tailwind.config.js
-## Created PostCSS config file: postcss.config.js
+```
+    yarn add tailwindcss postcss autoprefixer
+    yarn tailwindcss init -p
+```
 
-## postcss.config.js 파일은 터치할 필요없습니다.
-## tailwind.config.js 을 커스터마이징 할 예정
+---
+<li>tailwind 설정파일 설정</li>
+이작업후 
+다음 2개의 파일이 생성됩니다.
 
-# styles/global.css에서
-# 기존 내용을 삭제한뒤에 다음 내용을 기재합니다.
-` @tailwind base;
-` @tailwind components;
-` @tailwind utilities;
+```
+    Created Tailwind CSS config file: tailwind.config.js
+    Created PostCSS config file: postcss.config.js
+```
+
+(ps)
+postcss.config.js 파일은 터치할 필요없습니다.
+tailwind.config.js 을 커스터마이징 할 예정
+---
+<li> 프로젝트 내부 tailwind 설정</li>
+styles/global.css에서
+기존 내용을 삭제한뒤에 다음 내용을 기재합니다.
+
+```
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+```
+</ol>
+
 
 
