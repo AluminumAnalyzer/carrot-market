@@ -11,6 +11,7 @@
 여기에서는 **typescript**를 사용할 예정입니다.
 
 <li> 프로젝트 안정화 설정</li>
+
 ```
     rm -rf .git (만약 git 이 생성되어있는 경우에..)
     git init 
