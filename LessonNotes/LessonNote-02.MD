@@ -20,6 +20,7 @@
 
 postcss.config.js 파일은 터치할 필요없습니다.
 tailwind.config.js 을 커스터마이징 할 예정
+
 ---
 <li> 프로젝트 내부 tailwind 설정</li>
 styles/global.css에서
