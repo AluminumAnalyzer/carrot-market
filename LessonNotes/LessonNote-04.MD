@@ -93,6 +93,7 @@
 최종 결과물은 다음과 같습니다.
 
 <li>최종 결과물</li>
+
 ```
     <div className='bg-slate-400 py-10 px-5 flex flex-col space-y-5'>
         <div className='bg-white p-6 rounded-3xl shadow-2xl'>
@@ -119,11 +120,4 @@
     </div>
 ```
 
-
 </ol>
-
-
-
----
-<li> </li>
-
