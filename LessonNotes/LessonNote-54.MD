@@ -1,0 +1,3 @@
+#Tailwind Practices
+
+Item Detail
